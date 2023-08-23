@@ -1,0 +1,25 @@
+.r{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    position: absolute; top:19rem; left:3rem;
+
+}
+.w{
+    background-color: rgb(252, 249, 249);
+    width: 40px;
+    height: 300px;
+    position: absolute; top: 19rem; left:9rem;
+
+}
+
+.br{
+    background-color: rgb(252, 252, 252);
+    width: 300px;
+    height: 30px;
+    position: absolute; top:27rem; left:3rem;
+
+}
+
+
+

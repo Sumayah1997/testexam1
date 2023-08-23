@@ -1,0 +1,23 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.nig,.nig2,.nig3{
+    width: 300px;
+    height: 350px;
+}
+.nig, .nig3{
+    background-color: green;
+}
+.nig2{
+    background-color: rgb(224, 208, 208);
+}
+.c1{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top:8rem;
+    left: 22rem;
+}
